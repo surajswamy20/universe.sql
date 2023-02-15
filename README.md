@@ -1,2 +1,2 @@
 # universe.sql
-this is about thefree code camp universe dump file.
+this is about the free code camp universe dump file.
